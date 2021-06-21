@@ -1,0 +1,17 @@
+git+https://github.com/facebookresearch/fvcore.git
+torchvision
+seaborn
+pandas
+matplotlib
+dotmap
+streamlit
+numpy
+torch
+Pillow
+PyYAML
+opencv_python
+gdown
+imagesize
+cloudpickle
+h5py
+pycocotools
